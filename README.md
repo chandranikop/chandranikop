@@ -71,24 +71,7 @@ Here are some ideas to get you started:
 
 <h2 align="left">Connect With Me:</h2>
 
-<p align="left">
-  <a href="mailto:nikochandra3@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" height="30" alt="gmail logo" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/chandra-niko-pasaribu-767041298/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="30" alt="linkedin logo" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.facebook.com/profile.php?id=100000436918338" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="50" height="30" alt="facebook logo" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/chandra_niko2/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="50" height="30" alt="instagram logo" />
-  </a>&nbsp;&nbsp;
-  <a href="https://wa.me/6287768925336" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="50" height="30" alt="whatsapp logo" />
-  </a>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="50" height="30" alt="discord logo" title="Discord: cnp140222" />
-</p>
+[<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" height="30" alt="gmail logo" />](mailto:nikochandra3@gmail.com) [<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="30" alt="linkedin logo" />](https://www.linkedin.com/in/chandra-niko-pasaribu-767041298/) [<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="50" height="30" alt="facebook logo" />](https://www.facebook.com/profile.php?id=100000436918338) [<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="50" height="30" alt="instagram logo" />](https://www.instagram.com/chandra_niko2/) [<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="50" height="30" alt="whatsapp logo" />](https://wa.me/6287768925336) <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="50" height="30" alt="discord logo" title="Discord: cnp140222" />
 
 <!-- <div align="left">
   <a href="mailto:nikochandra3@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" height="30" alt="gmail logo" /></a>
